@@ -1,5 +1,5 @@
 # Time-series-Recurrent-Neural-Network
-This was done to the Keggle London meter data set
+This was done to the Keggle London meter data set.
 In order to run the code:
 numpy, matplotlib, pandas, keras, sklearn should be installed
 
