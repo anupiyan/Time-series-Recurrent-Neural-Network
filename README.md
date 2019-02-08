@@ -1,5 +1,6 @@
 # Time-series-Recurrent-Neural-Network
-This was done to the Keggle London meter data set.
+This was done to the Keggle London meter data set (https://www.kaggle.com/jeanmidev/smart-meters-in-london).
+The dataset is modified, in order to get the mean value for each day from each house for a given block.
 In order to run the code:
 numpy, matplotlib, pandas, keras, sklearn should be installed
 
